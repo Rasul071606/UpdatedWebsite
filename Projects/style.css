@@ -1,0 +1,19 @@
+body{
+    background: #f6f0ed;
+}
+
+#big_div1{
+    display:flex;
+    border-radius: 50px;
+    background-color: #7ea8be;
+    border: 5px solid #b97375;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    color: #0c0c0c;
+    justify-content: center;
+    
+}
+
+h1{
+    text-align: center;
+}
